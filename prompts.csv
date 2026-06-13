@@ -1,1 +1,7 @@
 
+id,category,prompt
+1,formatting,Answer using only one word: What color is grass?
+2,formatting,Write exactly 3 bullet points about space.
+3,length,Write exactly 10 words about artificial intelligence.
+4,length,Answer in no more than 2 sentences. What is Python?
+5,multi_constraint,Name 3 European capitals in alphabetical order without numbering.
