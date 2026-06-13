@@ -1,1 +1,17 @@
 
+prompt_id,model,score,error_type
+1,GPT,5,No Error
+1,Claude,5,No Error
+1,Gemini,5,No Error
+2,GPT,5,No Error
+2,Claude,5,No Error
+2,Gemini,5,No Error
+3,GPT,5,No Error
+3,Claude,2,Major Issue
+3,Gemini,5,No Error
+4,GPT,5,No Error
+4,Claude,5,No Error
+4,Gemini,5,No Error
+5,GPT,5,No Error
+5,Claude,5,No Error
+5,Gemini,5,No Error
