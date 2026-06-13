@@ -1,1 +1,31 @@
 
+prompt_id,model,response
+1,GPT,Green
+1,Claude,Green
+1,Gemini,Green.
+2,GPT,"* Space is a near-vacuum that contains galaxies, stars, planets, and other celestial objects.
+* Light from distant stars and galaxies can take millions or billions of years to reach Earth.
+* Gravity shapes the motion of planets, moons, and galaxies throughout space.
+"
+2,Claude,"• Space is a near-perfect vacuum containing virtually no air or atmosphere.
+• The universe contains an estimated two trillion galaxies.
+• Light from the Sun takes about eight minutes to reach Earth."
+2,Gemini,"* Space is a near-perfect vacuum, meaning it contains virtually no matter, which is why sound cannot travel through it.
+* The observable universe is unimaginably vast, containing an estimated two trillion individual galaxies that hold countless stars and planets.
+* Temperatures in deep space are extremely cold, averaging around -270°C (just slightly above absolute zero), though areas near stars can reach millions of degrees."
+3,GPT,"Artificial intelligence enables machines to learn reason adapt and assist.
+"
+3,Claude,Artificial intelligence teaches machines to think like humans do.
+3,Gemini,**Artificial intelligence systems learn from data to solve complex problems.**
+4,GPT,"Python is a high-level programming language known for its readability and versatility. It is widely used for web development, automation, data analysis, artificial intelligence, and more.
+"
+4,Claude,"Python is a high-level, general-purpose programming language known for its simple, readable syntax. It is widely used in web development, data science, artificial intelligence, and automation."
+4,Gemini,"**Python** is a high-level, versatile programming language renowned for its clear syntax and readability. It is widely used across multiple fields, including web development, data science, artificial intelligence, and task automation."
+5,GPT,"Amsterdam, Berlin, Copenhagen.
+"
+5,Claude,"Berlin
+Paris
+Rome"
+5,Gemini,"* **Amsterdam**
+* **Berlin**
+* **Copenhagen**"
